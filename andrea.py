@@ -4,9 +4,9 @@ print(myName)
 if(myName == "Richie"):
      print("You are my sweet son")
 elif (myName == "Mashie"):
-    print("you are my lovely darling")
+    print("you are my lovely daughter")
 else:
-     print("you are stupid")
+     print("you are a stranger")
 
 
 
